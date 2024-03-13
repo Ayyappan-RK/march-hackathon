@@ -30,7 +30,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  calendar_view: ^1.1.0
+  http: ^1.2.1
+  googleapis_auth: null
+  googleapis: null
+  firebase_core: null
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.

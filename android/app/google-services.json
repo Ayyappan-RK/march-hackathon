@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535493893394",
+    "project_id": "mcma-f134f",
+    "storage_bucket": "mcma-f134f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535493893394:android:743cc6384c434c6f3fe7cb",
+        "android_client_info": {
+          "package_name": "com.example.mutliple_calendar_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXC4oBlDLZvjrFRa512Ffh8oyVDUHCJc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
